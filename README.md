@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uniqueww\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uniqueww&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uniqueww&layout=compact&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/uniqueww/count.svg) visitor,Thank You!
 
